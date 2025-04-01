@@ -1,0 +1,28 @@
+Utilizando o algoritmo AES (foram feitos exemplos em sala de aula), cifre o conteudo abaixo e escolha a opcao correta.
+
+Conteúdo = Security Information...
+
+Chave(128 bits) = 7141bc7a39h7057b
+
+Escolha uma:
+a. JjeLsJq0CFRkmu0Kz5wdflc0Ap1h1J6JEtPdxRyR7gc=
+b. yVKcEvHnpriyhnVX9Ic/R+dVPUxAUdaERYXnss1tEKM=
+c. mtcL9c618NIdJWnqdTW17fzrqMMfoi8H6EDHVznAn1s=
+d. 8icV2iIL8Dw8RfG68iacLe4hYP8rnidKE6UzdFAmmow=
+e. +Aza97Tk9DYkQFztKLmqGMDx5fGaSJeJnSAiUKtkgdI=
+
+Utilizando o algoritmo AES (foram feitos exemplos em na sala de aula), decifre o conteudo abaixo e escolha a opcao correta.
+
+Resposta: D
+
+Conteudo = ma3vX3CMQwVPp4jSCsOMReb/Zzd8Xtp6X3MXfjZl0oU=
+
+Chave(128 bits) = 9871babc39h8857e
+Escolha uma:
+a. Muito bem, ta feito...
+b. Correto, ta blza...
+c. Oh, estude mais irmao...
+d. Quase, voce nao prestou atencao nas aulas...
+e. Joia, deu certo...
+
+Resposta: E
